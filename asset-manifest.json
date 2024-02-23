@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/restaurant-dynamic/static/js/main.b583afba.js",
+    "index.html": "/restaurant-dynamic/index.html",
+    "main.b583afba.js.map": "/restaurant-dynamic/static/js/main.b583afba.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b583afba.js"
+  ]
+}
